@@ -1,3 +1,3 @@
 # Prueba
-Prueba de realizar un repositorio
+This is my first repo
 # Carlos Rodrigo Beltrá
